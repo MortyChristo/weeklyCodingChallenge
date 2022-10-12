@@ -1,8 +1,7 @@
-package org.example.October12;
+package org.October12;
 
 import java.util.HashSet;
 import java.util.LinkedList;
-import java.util.Objects;
 import java.util.Set;
 
 public class isCircle {

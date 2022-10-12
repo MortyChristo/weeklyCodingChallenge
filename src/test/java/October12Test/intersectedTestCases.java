@@ -1,6 +1,7 @@
 package October12Test;
 
-import org.example.October12.intersectedList;
+
+import org.October12.intersectedList;
 import org.junit.jupiter.api.Assertions;
 import org.testng.annotations.Test;
 

@@ -1,7 +1,5 @@
-package org.example.October12;
+package org.October12;
 
-import javax.xml.soap.Node;
-import java.util.Arrays;
 import java.util.LinkedList;
 
 public class intersectedList {

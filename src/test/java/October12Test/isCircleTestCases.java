@@ -1,7 +1,6 @@
 package October12Test;
 
-import org.example.October12.intersectedList;
-import org.example.October12.isCircle;
+import org.October12.isCircle;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 import java.util.LinkedList;

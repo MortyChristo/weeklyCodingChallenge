@@ -1,4 +1,4 @@
-package org.example.October4;
+package org.October4;
 
 public class validPin {
     public static boolean validPin(String pin){

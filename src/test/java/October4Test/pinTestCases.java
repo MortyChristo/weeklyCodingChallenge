@@ -1,5 +1,6 @@
 package October4Test;
 
+import org.October4.validPin;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 
