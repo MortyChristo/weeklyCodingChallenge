@@ -1,6 +1,9 @@
-import org.example.validPin;
+package October4Test;
+
+
+import org.example.October4.validPin;
+import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
-import org.testng.annotations.Test;
 
 public class pinTestCases {
     @Test

@@ -1,8 +1,10 @@
-import org.example.isFactorial;
-import org.junit.jupiter.api.Assertions;
-import org.testng.annotations.Test;
+package October4Test;
 
-public class factorialTestCases {
+import org.example.October4.isFactorial;
+import org.junit.Test;
+import org.junit.jupiter.api.Assertions;
+
+public class factorialtestcases {
 
     @Test
     public void factorialPositiveTest1(){
