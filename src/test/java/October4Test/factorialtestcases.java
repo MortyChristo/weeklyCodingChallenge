@@ -1,6 +1,6 @@
 package October4Test;
 
-import org.example.October4.isFactorial;
+
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 

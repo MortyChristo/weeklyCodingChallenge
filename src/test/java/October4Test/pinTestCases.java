@@ -1,7 +1,5 @@
 package October4Test;
 
-
-import org.example.October4.validPin;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 
@@ -10,6 +8,7 @@ public class pinTestCases {
     public void pinPositiveTest1(){
         String N = "1234";
         boolean expected = true;
+
         boolean actual = validPin.validPin(N);
         Assertions.assertEquals(expected, actual);
     }
