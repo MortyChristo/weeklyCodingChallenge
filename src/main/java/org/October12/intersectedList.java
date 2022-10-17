@@ -18,15 +18,6 @@ public class intersectedList {
             }
 
         }
-//        System.out.println("Does the linked list intersect?  :");
-//        System.out.print(intersects);
-//
-//        if (intersects) {
-//            System.out.println("It intersects at points: " + Arrays.toString(intersectionPoint));
-//            System.out.println("The node that intersects: " + intersectionChar);
-//
-//
-//        }
         return intersectionChar;
     }
 }
